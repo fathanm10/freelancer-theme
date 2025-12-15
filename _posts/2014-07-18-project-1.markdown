@@ -2,10 +2,12 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: alifan.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+client: #1
+category: Hard Hitter
+description: Pertama kali memukul bola golf pada umur 7 tahun, Alifan dengan cepat menguasai olahraga tersebut dan memenangkan banyak piala yang tak terhitung jumlahnya. Bermulai dari pertemanan yang memiliki hobi serupa, Alifan membentuk organisasi peminat golf "PGP Golf Persada" tepat di umur 20 tahun.
+
+Hingga kini ia masih rutin berpartisipasi dalam kegiatan maupun turnamen yang diselenggarakan PGP Golf Persada, serta secara aktif mengajak organisasi lainnya untuk berkolaborasi dan bergabung dalam kegiatan tersebut.
 ---
